@@ -21,4 +21,6 @@ I am currently working on a **portfolio**, and a **bigger project** that should 
 #### Fun fact:
 My pseudo, "knocker", isn't related to somebody who knocks but rather [little elves](https://en.wikipedia.org/wiki/Knocker_(folklore)) from the celtic folklor!
 <br>
-https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6f72c7,100:70298f&section=footer&reversal=false
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6f72c7,100:70298f&section=footer&reversal=false"><img>
+</p>
