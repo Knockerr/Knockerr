@@ -14,4 +14,4 @@ I can work with the following languages :
 I am currently working on a **portfolio**, and a **bigger project** that should come out about next summer..
 
 #### Fun fact:
-My pseudo, "knocker", isn't related to somebody who knocks on doors but rather [little elves](https://en.wikipedia.org/wiki/Knocker_(folklore)) from the celtic folklor!
+My pseudo, "knocker", isn't related to somebody who knocks but rather [little elves](https://en.wikipedia.org/wiki/Knocker_(folklore)) from the celtic folklor!
