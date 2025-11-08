@@ -3,6 +3,7 @@
 </p>
   
 <p>French computer science student. Passionated by CS and programming since my childhood, I am now working on various personnal projects!</p>
+
 ---
 ## Stack:
 I can work with the following languages : 
