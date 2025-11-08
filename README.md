@@ -1,6 +1,6 @@
 # Knocker
 ---
-Hello! I'm knocker, a french student in computer science!
+Hello, I'm **knocker**! A french **computer science student**!
 Passionated by CS and programming since I'm about 12 years old, I am now working on various personnal projects!
 
 ## Stack:
@@ -11,4 +11,7 @@ I can work with the following languages :
 * C#
 
 ## Projects:
-I am currently working on a portfolio, and a bigger projects that should come out about next summer..
+I am currently working on a **portfolio**, and a **bigger project** that should come out about next summer..
+
+#### Fun fact:
+My pseudo, "knocker", isn't related to somebody who knocks on doors but rather [little elves](https://en.wikipedia.org/wiki/Knocker_(folklore)) from the celtic folklor!
