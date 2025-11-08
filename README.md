@@ -1,5 +1,5 @@
-# Hello, I'm **knocker**,
-## A french **computer science student**. Passionated by CS and programming since my childhood, I am now working on various personnal projects!
+# Hello, I'm **knocker** 👋
+### A french **computer science student**. Passionated by CS and programming since my childhood, I am now working on various personnal projects!
 ---
 ## Stack:
 I can work with the following languages : 
