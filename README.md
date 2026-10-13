@@ -24,8 +24,6 @@ Other tools and technologies I use :
 * Tailwind
 * FRP (Fast Reverse Proxy)
 
-<br>
-
 ## AI usage
 In the current era of computer science, I consider it important and fundamental to explain how I use AI in my projects.
 **How I use AI:**
@@ -41,6 +39,10 @@ In the current era of computer science, I consider it important and fundamental 
 
 ## Projects:
 I am currently working on a **portfolio**, and a **bigger project** that should come out around october 22nd.
+
+## Contact:
+Email: knocker.pro@proton.me
+Discord (quickest answer): `.knocker.`
 
 ---
 #### Fun fact:
